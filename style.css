@@ -1,0 +1,79 @@
+.jumbotron {
+ padding-top: 5rem;
+ background-color: #e2edff;
+}
+
+.about {
+padding-top: 2rem;
+background-color: #FFFFFF;
+
+}
+
+.AWARDS {
+padding-top: 2rem;
+background-color: #e2edff;
+
+}
+
+.SCHOLARSHIP {
+padding-top: 2rem;
+background-color: #FFFFFF;
+
+}
+
+
+.ORGANIZATIONAL {
+padding-top: 2rem;
+background-color: #e2edff;
+
+}
+
+
+.VOLUNTARY {
+padding-top: 2rem;
+background-color: #FFFFFF;
+
+}
+
+.SKILL {
+padding-top: 2rem;
+background-color: #e2edff;
+
+}
+
+/* Make sure that padding behaves as expected */
+* {box-sizing:border-box}
+
+/* Container for skill bars */
+.container {
+  width: 100%; /* Full width */
+}
+
+.skill{
+  text-align: right; /* Right-align text */
+  padding-top: 10px; /* Add top padding */
+  padding-bottom: 10px; /* Add bottom padding */
+  color: white; /* White text color */
+}
+
+.CONTACT {
+padding-top: 2rem;
+background-color: #FFFFFF;
+
+}
+
+.html {width: 90%; background-color: #04AA6D;} /* Green */
+.css {width: 80%; background-color: #2196F3;} /* Blue */
+.js {width: 65%; background-color: #f44336;} /* Red */
+.php {width: 60%; background-color: #808080;} /* Dark Grey */
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+
+ .section{
+ padding-top: 5rem;
+}
